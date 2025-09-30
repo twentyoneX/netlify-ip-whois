@@ -1,0 +1,8 @@
+{
+  "name": "netlify-ip-whois-lookup",
+  "version": "1.0.0",
+  "description": "A Netlify serverless function to perform WHOIS lookups for IPs and domains.",
+  "dependencies": {
+    "whois": "^2.4.3"
+  }
+}
